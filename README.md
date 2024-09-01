@@ -1,4 +1,4 @@
-# AIDSE
+# 
 
 # Tech Comm T1
 
