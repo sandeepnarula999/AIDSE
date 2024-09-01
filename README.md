@@ -32,7 +32,7 @@ Answer: False
 Question 10: Topic analysis is an important strategy during the preparation of group discussion.
 Answer: True
 
-# Foundation of Computer System
+# Foundation of Computer System T1
 
 Question 1: How many general-purpose registers are available in the MIPS architecture?
 Answer B
