@@ -1,4 +1,57 @@
-# 
+# Adv. Machine Learning 
+Question1:: In Machine Learning the 'rules and patterns' (need to be learned by program) which are
+Answer B or D
+a. Underlying Programming Language
+b. All
+c. Logic
+d. Data
+
+Question2:: Nominal variables are those having
+Answer: A
+a. Non-Intrinsic Ordering
+b. Semi- intrinsic Ordering
+C. Complete- intrinsic Ordering
+d. Intrinsic Ordering
+
+Question3: Training and learning are the same things in machine learning.
+Answer: True
+
+Question4:: Algorithm and model are the same thing in machine learning.
+Answer: False
+
+Question5: Which kind of problem suffer from high randomness?
+Answer: B
+a. Assembly Programming
+b. Non-Deterministic programming
+c. Deterministic Programming
+d. Explicit programming,
+
+Question6: Machine Learning programming is:
+Answer: A
+a. Non-Deterministic programming
+b. Deterministic Programming
+c. Implicit Programming
+d. Explicit Programming
+
+Question7:: Al program itself does not know anything about the type of pattern it needs to identify
+Answer: True
+
+Question8:: Machine Learning based applications increase human intervention.
+Answer: False
+
+Question9:: The behavior of ML based application/ programing is highly influenced with:
+Answer: B
+a. Computational Power of Machine
+b. Data
+C. Type of library used
+d. Underlying Programming Language
+
+Question10:: Zip Code is a type of variable:
+Answer: D
+a. Ratio
+b. Ordinal
+C. Interval
+d. Nominal (Categorical)
 
 # Design and Analysis of Algorithm
 Question 1: WHAT IS THE PURPOSE OF APPROXIMATION ALGORITHMS?
