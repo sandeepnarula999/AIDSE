@@ -1,3 +1,36 @@
+# Probability and Statistics
+Question1:: Let A and B be two event such that P(A)= 1/2, P(B/A) =1/2, P(A/B) =1/4, find P(A'/B')
+Answer:: 1/2 
+
+Question2:: From a box containing 5 white and 5 black balls. 5 balls are transformed at random into an empty box from which an ball is drawn and it is found to be white. 
+What is the probability that all balls transformed from the first box are white?
+Answer:: 1/126
+
+Question3:: In an entrance test that is graded on the basis of two examinations the probability of a randomly chosen student passing the first examination is 0.8 and the probability of passing the second examination is 0.7. 
+The probability of passing atleast one of them is 0.95. What is the probability of passing both?
+Answer:: 0.55
+
+Question4:: A missile was fired at a plane where there are two targets, t 1 and t 2 . if the probability of hitting the targets t 1 and t 2 are .7 and .65 respectively, then find the probability that t 1 was hit, if it is known that t 2 was not hit.
+Answer:: 0.7
+
+Question5:: Suppose each of n men at party throw his hat into the center of the room. The hat are first mixed up and then each men randomly selects a hat. Find the probability that none of the men select his own hat.
+Answer::
+
+n
+∑ (−1)^i/i!
+i=0
+
+Question6:: if A1, A2, A3, ..., are events belonging to sample set S, then
+P(∩Ai) -1 ≥ ∑P(Ai) -n
+Answer:: True because its Bonferroni’s inequality
+
+Question7:: if A1, A2, A3, ..., are events connected to sample set S, then
+P(∩Ai) ≥ ∑P(Ai)
+
+Answer:: False
+because Boole's inequality is
+P(∩Ai) ≤ ∑P(Ai)
+
 # Adv. Machine Learning 
 Question1:: In Machine Learning the 'rules and patterns' (need to be learned by program) which are
 Answer B or D
